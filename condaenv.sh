@@ -11,8 +11,8 @@
 
 CND_DIR=$(conda info --base)/envs/     # directory where local envs are created
 
-ENV_DIR=/scratch/${USER}/conda_env     # directory where stnd. envs are created
-YML_DIR=/home/${USER}/apps/conda_env   # directory where .YAML files are stored
+ENV_DIR=/path/to/conda/envs            # directory where stnd. envs are created
+YML_DIR=/path/to/yaml/files            # directory where .YAML files are stored
 
 # ┌────────────────────────────────────────────────────────────────────────────┐
 # │ Usage message encapsulated in a function for easy reference.               │
