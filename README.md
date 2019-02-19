@@ -13,7 +13,7 @@ It works as follows:
 ```
 Usage: condaenv summon [-l] env    restore a conda environment from a yml file
    or: condaenv unsummon    env    archive a conda environment as a yml file
-   or: condaenv -h                   display extended help message
+   or: condaenv -h                 display extended help message
 
     summon    Searches for a YAML file in a specified directory and uses it to
               create a conda environment.
