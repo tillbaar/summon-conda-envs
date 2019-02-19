@@ -27,7 +27,7 @@ Arguments:
               the new conda environment is created in the standard path for
               conda environments instead.
  
- -h  help    Displays this extended help message.
+  -h  help    Displays this extended help message.
  ```
 ## Examples
 So, let's assume you have created a conda environment called `foo` that you don't need at the moment.
