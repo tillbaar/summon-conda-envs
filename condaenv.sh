@@ -22,7 +22,7 @@ USAGE() {
   echo ""
   echo "Usage: condaenv summon [-l] env    restore a conda environment from a yml file"
   echo "   or: condaenv unsummon    env    archive a conda environment as a yml file"
-  echo "   or: condaenv -h                   display extended help message"
+  echo "   or: condaenv -h                 display extended help message"
   echo ""
   echo "    summon    Searches for a YAML file in a specified directory and uses it to"
   echo "              create a conda environment."
